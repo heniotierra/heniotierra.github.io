@@ -772,3 +772,8 @@ button:focus,
     text-align : center;
     top        : 65%;
     }
+
+.codersrank-logo {
+    width               :60%;
+    height              : auto;
+}
